@@ -3,7 +3,7 @@
 // @name         Login spain,
 // @namespace    http://tampermonkey.net/
 // @version      1.0
-// @author       vk shah
+// @author       you
 // @match        https://appointment.thespainvisa.com/*/log*n*
 // @match         https://appointment.thespainvisa.com/Global/account/login*
 // @match        https://appointment.thespainvisa.com/Global/newcaptcha/logincaptcha*
