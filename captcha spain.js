@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      2025.05.19
 // @description  Fast CAPTCHA solver and auto-submitter
-// @author       vk
+// @author       
 // @match        https://appointment.thespainvisa.com/*
 // @grant        unsafeWindow
 // ==/UserScript==
